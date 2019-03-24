@@ -6,8 +6,13 @@ A function using R  <a href="https://cran.r-project.org/web/packages/gganimate/i
  <br>
 Please use https://finance.yahoo.com/lookup for stock code.
 
- # Run Function
- ani_Price_60(stock_code = "^DJI", download = TRUE)
+# Run Function
+ani_Price_60(stock_code = "^DJI", download = TRUE)
 
+# 
+ <b> Relative share price movement animation </b> to show adjusted share price relative movement since Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry in Australia for illustartion purpose.<br>
+ ![](Relative_shares.gif) <br>
+ <a href=".">Refresh</a> page to re-run animation
+ 
  
 
