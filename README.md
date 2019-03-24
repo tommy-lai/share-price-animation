@@ -10,9 +10,11 @@ Please use https://finance.yahoo.com/lookup for stock code.
 ani_Price_60(stock_code = "^DJI", download = TRUE)
 
 # 
- <b> Relative share price movement animation </b> to show adjusted share price relative movement since Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry in Australia for illustartion purpose.<br>
+ <b> Relative share price movement animation </b> to show adjusted share price relative movement since <a href="https://financialservices.royalcommission.gov.au/Pages/default.aspx"> Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry</a> in Australia for illustartion purpose.<br>
  ![](Relative_shares.gif) <br>
  <a href="https://github.com/tommy-lai/share-price-animation">Refresh</a> page to re-run animation
- 
- 
+
+#
+<i><small> Disclaimer: Past performance is not an indicative of future results. Displayed information is for educational or informational purposes only, and is not intended as financial or investment advice and must not be construed or relied on as such. The material in this website was prepared in good faith and I accept no liability for any errors or omissions or misrepresentation in the material or otherwise. 
+ </small></i>
 
