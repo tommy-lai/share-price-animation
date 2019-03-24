@@ -12,7 +12,7 @@ ani_Price_60(stock_code = "^DJI", download = TRUE)
 # 
  <b> Relative share price movement animation </b> to show adjusted share price relative movement since Royal Commission into Misconduct in the Banking, Superannuation and Financial Services Industry in Australia for illustartion purpose.<br>
  ![](Relative_shares.gif) <br>
- <a href=".">Refresh</a> page to re-run animation
+ <a href="https://github.com/tommy-lai/share-price-animation">Refresh</a> page to re-run animation
  
  
 
